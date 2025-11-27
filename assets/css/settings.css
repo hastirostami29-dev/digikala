@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+main {
+  width: 100%;
+}
+
+@font-face {
+  font-family: iryekanreg;
+  src: url(../fonts/iranyekanwebregular.b95439c1.b95439c1.woff);
+}
+
+@font-face {
+  font-family: iryekanbold;
+  src: url(../fonts/iranyekanwebbold.e298fdc6.e298fdc6.woff);
+}
+
+@font-face {
+  font-family: iryekanexbold;
+  src: url(../fonts/IRANYekanXVF.woff);
+}
